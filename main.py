@@ -1,6 +1,8 @@
-print("Hello Luciana's World")
-print("Luciana's World")
-""" wow """
-num1 = 92
-num2 = 55
-print(num1-num2)
+nombre = input ("cual es tu nombre?")
+print ("hola", nombre, ",lindo nombre")
+
+edad = int (input("en que año naciste?"))
+print ("yo tambien naci en", edad )
+
+locacion = input("a donde te gustaria viajar?")
+print ("tranqui, yo te llevo a", locacion)
